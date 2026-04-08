@@ -1,0 +1,18 @@
+[submodule "custom_nodes/ComfyUI-Easy-Use"]
+	path = custom_nodes/ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use.git
+[submodule "custom_nodes/RES4LYF"]
+	path = custom_nodes/RES4LYF
+	url = https://github.com/ClownsharkBatwing/RES4LYF.git
+[submodule "custom_nodes/comfyui-crystools"]
+	path = custom_nodes/comfyui-crystools
+	url = https://github.com/crystian/comfyui-crystools.git
+[submodule "custom_nodes/comfyui-manager"]
+	path = custom_nodes/comfyui-manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager
+[submodule "custom_nodes/nunchaku_nodes"]
+	path = custom_nodes/nunchaku_nodes
+	url = https://github.com/mit-han-lab/ComfyUI-nunchaku
+[submodule "custom_nodes/rgthree-comfy"]
+	path = custom_nodes/rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy.git
